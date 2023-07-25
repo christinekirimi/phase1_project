@@ -28,12 +28,13 @@ It contains 3 columns i.e; tconst:alphanumeric unique identifier of the title. A
 ###### The following are my recommendations to microsoft movie studio:
 1. The microsoft movie studio should not produce movies with a very long runtime since the movies that have average runtime of below 100 minutes have more revenue compared to those with very high runtime.
 2. Microsoft Movie studio should be keen to produce the following movie genres that had the most revenue:
+   
                     a). Adventure, Animation and Comedy had the highest total
    
                     b). Action Adventure and Sci-fi.
    
                     c). Then Action Adventure and Fantasy came in third.
    
-4. The genres with high number of votes are also the movie genre that attracted the highest revenue, so they should be keen to produce movies with high number of votes.This genres are: a). Action, Adventure and Sci-Fi b). Action Adventure and Animation c). Adventure, Animation and Comedy third highest.
-5. Microsoft Movie studio should produce movies that will appeal to both their domestic audience and foreign audience since the domestic revenue and foreign revenue have a strong positive correlation.
+3. The genres with high number of votes are also the movie genre that attracted the highest revenue, so they should be keen to produce movies with high number of votes.This genres are: a). Action, Adventure and Sci-Fi b). Action Adventure and Animation c). Adventure, Animation and Comedy third highest.
+4. Microsoft Movie studio should produce movies that will appeal to both their domestic audience and foreign audience since the domestic revenue and foreign revenue have a strong positive correlation.
 
