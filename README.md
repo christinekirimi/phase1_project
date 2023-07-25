@@ -16,24 +16,18 @@ It contains 6 columns i.e; tconst(string): It is an alphanumeric unique identifi
 It contains 3 columns i.e; tconst:alphanumeric unique identifier of the title. Averagerating: weighted average of all the individual user ratings. numVotes: number of votes the title has received
 
 ## Results
-
-In the Analysis above we have come to the following Conlusions:
-The IFC Studio produced the highest number of movies followed by Uni then WB
-2015 produced the highest number of movies at 450, 2016:436 and 2012;400
-2016 had the highest domestic revenue, followed by 2018 then 2015
-2016 had the highest foreign revenue, followed by 2017 then 2015
-The domestic revenue and foreign revenue have a strong positive correlation meaning the movies that had a high domestic revenue are more likely to have a high foreign revenue.
-History,Commedy and Romance genre had the longest runtime follwed by Action Musical Romance.
-Comedy, Documentary and Fantasy had the highest average rating of 9.40,followed by Documentary, Family, Musical had the second highest rating of 9.30.And History and Sport had the third highest rating of 9.20.
-Action, Adventure and Sci-Fi received the highest number of votes followed by Action Adventure and Animation second highest and Adventure, Animation and Comedy third highest.
-There is a week correlation between number of votes and average rating, hence the number of votes do not necessarily influence the rating of a movie.
-Adventure, Animation and Comedy had the highest total revenue followed by Action Adventure and Sci-fi, Then Action Adventure and Fantasy came in third.
+##### In the Analysis above we have come to the following Conlusions:
+1. The domestic revenue and foreign revenue have a strong positive correlation meaning the movies that had a high domestic revenue are more likely to have a high foreign revenue.
+2. Comedy, Documentary and Fantasy had the highest average rating of 9.40,followed by Documentary, Family, Musical had the second highest rating of 9.30.And History and Sport had the third highest rating of 9.20.
+3. Action, Adventure and Sci-Fi received the highest number of votes followed by Action Adventure and Animation second highest and Adventure, Animation and Comedy third highest.
+4. There is a week correlation between number of votes and average rating, hence the number of votes do not necessarily influence the rating of a movie.
+5. Adventure, Animation and Comedy had the highest total revenue followed by Action Adventure and Sci-fi, Then Action Adventure and Fantasy came in third.
 
 ## Recommendations
 
-The following are my recommendations to microsoft movie studio:
-The microsoft movie studio should not produce movies with a very long runtime since the movies that have average runtime of below 100 minutes have more revenue compared to those with very high runtime.
-Microsoft Movie studio should be keen to produce the following movie genres that had the most revenue: a). Adventure, Animation and Comedy had the highest total b). Action Adventure and Sci-fi. c). Then Action Adventure and Fantasy came in third.
-The genres with high number of votes are also the movie genre that attracted the highest revenue, so they should be keen to produce movies with high number of votes.This genres are: a). Action, Adventure and Sci-Fi b). Action Adventure and Animation c). Adventure, Animation and Comedy third highest.
-Microsoft Movie studio should produce movies that will appeal to both their domestic audience and foreign audience since the domestic revenue and foreign revenue have a strong positive correlation.
+###### The following are my recommendations to microsoft movie studio:
+1. The microsoft movie studio should not produce movies with a very long runtime since the movies that have average runtime of below 100 minutes have more revenue compared to those with very high runtime.
+2. Microsoft Movie studio should be keen to produce the following movie genres that had the most revenue: a). Adventure, Animation and Comedy had the highest total b). Action Adventure and Sci-fi. c). Then Action Adventure and Fantasy came in third.
+3. The genres with high number of votes are also the movie genre that attracted the highest revenue, so they should be keen to produce movies with high number of votes.This genres are: a). Action, Adventure and Sci-Fi b). Action Adventure and Animation c). Adventure, Animation and Comedy third highest.
+4. Microsoft Movie studio should produce movies that will appeal to both their domestic audience and foreign audience since the domestic revenue and foreign revenue have a strong positive correlation.
 
